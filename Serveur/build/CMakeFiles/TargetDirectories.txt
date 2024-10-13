@@ -1,0 +1,3 @@
+/home/student/Bureau/RTI/Me/AppliBooker/Serveur/build/CMakeFiles/rebuild_cache.dir
+/home/student/Bureau/RTI/Me/AppliBooker/Serveur/build/CMakeFiles/Serveur.dir
+/home/student/Bureau/RTI/Me/AppliBooker/Serveur/build/CMakeFiles/edit_cache.dir
